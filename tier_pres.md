@@ -12,7 +12,6 @@ Why is this important? These tests confirm that our core functionalities work as
 This tier ensures that the basic, expected operations are flawless, forming the foundation of user trust in the software.<br>
 <br>
 ## Slide 3: Tier 2 - Alternative Use Cases<br>
-<br>
 ### Description:<br>
 Tier 2 testing covers alternative use cases, which are less common but still valid scenarios.<br>
 <br>
@@ -26,7 +25,6 @@ This tier is crucial because it ensures flexibility and robustness in handling a
 By accounting for these variations, we enhance the user experience and prevent potential issues from overlooked edge conditions.<br>
 <br>
 ## Slide 4: Tier 3 - Edge Cases<br>
-<br>
 ### Description:<br>
 Edge cases are at the boundary of what is considered valid input.<br>
 <br>
@@ -40,7 +38,6 @@ These tests are vital for understanding the limits of our system and ensuring it
 Identifying how the software behaves in these scenarios helps prevent crashes or unexpected behavior in real-world use.<br>
 <br>
 ## Slide 5: Tier 4 - Negative Cases<br>
-<br>
 ### Description:<br>
 Negative cases involve inputs and scenarios that the system should reject or handle gracefully.<br>
 ### Example:<br>
@@ -53,7 +50,6 @@ Examples include attempting to log in with incorrect passwords or trying to expl
 "A strong defense against invalid operations protects both the system and its users, maintaining integrity and trust."<br>
 <br>
 ## Slide 6: Tier 5 - Validation and Error Handling Cases<br>
-<br>
 ### Description:<br>
 Tier 5 evaluates how the system handles validation and error scenarios, such as checking if an email already exists or processing invalid payment methods."<br>
 ### Example: <br>
@@ -72,14 +68,5 @@ Tier 5 evaluates how the system handles validation and error scenarios, such as 
 ### Additional Example:<br>
 #### Scenario: Testing the system’s response when a user tries to sign up with an email already associated with an account.<br>
 #### Response: The system should inform the user that the email is already in use and suggest options such as logging in or using a different email.<br>
-<br>
-### Conclusion for Tier 5:<br>
-In summary, Tier 5 tests are essential for validating the system’s error handling capabilities, ensuring it responds appropriately to incorrect inputs, and providing users with clear guidance to resolve issues.<br>
-<br>
-## Slide 7: Conclusion<br>
-### Summary:<br>
-In summary, the five tiers of testing—intended use, alternative use, edge cases, negative cases, and validation/error handling—provide a comprehensive approach to software quality assurance.<br>
-### Reiteration:
-Each tier addresses different aspects of potential issues, from everyday use to extreme scenarios.<br>
-### Closing Statement:<br>
-By implementing these testing strategies, we ensure a reliable, secure, and user-friendly product, ultimately enhancing user satisfaction and trust.<br>
+
+
