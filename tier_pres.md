@@ -1,4 +1,4 @@
-Slide 2: Tier 1 - Intended Use Cases<br>
+## Slide 2: Tier 1 - Intended Use Cases<br>
 <br>
     Description: "Tier 1 focuses on the primary and most common scenarios that the software is designed to handle."<br>
     <br>
@@ -9,7 +9,7 @@ Slide 2: Tier 1 - Intended Use Cases<br>
     Additional Points:<br>
         "This tier ensures that the basic, expected operations are flawless, forming the foundation of user trust in the software."<br>
 <br>
-Slide 3: Tier 2 - Alternative Use Cases<br>
+## Slide 3: Tier 2 - Alternative Use Cases<br>
 <br>
     Description: "Tier 2 testing covers alternative use cases, which are less common but still valid scenarios."<br>
     <br>
@@ -20,7 +20,7 @@ Slide 3: Tier 2 - Alternative Use Cases<br>
     Additional Points:<br>
         "By accounting for these variations, we enhance the user experience and prevent potential issues from overlooked edge conditions."<br>
 <br>
-Slide 4: Tier 3 - Edge Cases<br>
+## Slide 4: Tier 3 - Edge Cases<br>
 <br>
     Description: "Edge cases are at the boundary of what is considered valid input."<br>
     <br>
@@ -31,7 +31,7 @@ Slide 4: Tier 3 - Edge Cases<br>
     Additional Points:<br>
         "Identifying how the software behaves in these scenarios helps prevent crashes or unexpected behavior in real-world use."<br>
 <br>
-Slide 5: Tier 4 - Negative Cases<br>
+## Slide 5: Tier 4 - Negative Cases<br>
 <br>
     Description: "Negative cases involve inputs and scenarios that the system should reject or handle gracefully."<br>
     <br>
