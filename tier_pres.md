@@ -1,3 +1,5 @@
+# Notes for Testing Presentation
+
 ## Slide 2: Tier 1 - Intended Use Cases<br>
 <br>
     Description: "Tier 1 focuses on the primary and most common scenarios that the software is designed to handle."<br>
@@ -9,6 +11,7 @@
     Additional Points:<br>
         "This tier ensures that the basic, expected operations are flawless, forming the foundation of user trust in the software."<br>
 <br>
+
 ## Slide 3: Tier 2 - Alternative Use Cases<br>
 <br>
     Description: "Tier 2 testing covers alternative use cases, which are less common but still valid scenarios."<br>
@@ -20,6 +23,7 @@
     Additional Points:<br>
         "By accounting for these variations, we enhance the user experience and prevent potential issues from overlooked edge conditions."<br>
 <br>
+
 ## Slide 4: Tier 3 - Edge Cases<br>
 <br>
     Description: "Edge cases are at the boundary of what is considered valid input."<br>
@@ -31,6 +35,7 @@
     Additional Points:<br>
         "Identifying how the software behaves in these scenarios helps prevent crashes or unexpected behavior in real-world use."<br>
 <br>
+
 ## Slide 5: Tier 4 - Negative Cases<br>
 <br>
     Description: "Negative cases involve inputs and scenarios that the system should reject or handle gracefully."<br>
@@ -42,7 +47,8 @@
     Additional Points:<br>
         "A strong defense against invalid operations protects both the system and its users, maintaining integrity and trust."<br>
 <br>
-Slide 6: Tier 5 - Validation and Error Handling Cases<br>
+
+## Slide 6: Tier 5 - Validation and Error Handling Cases<br>
 <br>
     Description: "Tier 5 evaluates how the system handles validation and error scenarios, such as checking if an email already exists or processing invalid payment methods."<br>
     <br>
@@ -67,7 +73,8 @@ Conclusion for Tier 5:<br>
 <br>
     "In summary, Tier 5 tests are essential for validating the system’s error handling capabilities, ensuring it responds appropriately to incorrect inputs, and providing users with clear guidance to resolve issues."<br>
 <br>
-Slide 7: Conclusion<br>
+
+## Slide 7: Conclusion<br>
 <br>
     Summary: "In summary, the five tiers of testing—intended use, alternative use, edge cases, negative cases, and validation/error handling—provide a comprehensive approach to software quality assurance."<br>
     <br>
