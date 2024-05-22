@@ -66,7 +66,9 @@ Tier 5 evaluates how the system handles validation and error scenarios, such as 
 "Effective error messages guide users to correct their input, enhancing usability and reducing frustration."<br>
 <br>
 ### Additional Example:<br>
-#### Scenario: Testing the system’s response when a user tries to sign up with an email already associated with an account.<br>
-#### Response: The system should inform the user that the email is already in use and suggest options such as logging in or using a different email.<br>
+#### Scenario:<br>
+Testing the system’s response when a user tries to sign up with an email already associated with an account.<br>
+#### Response:<br>
+The system should inform the user that the email is already in use and suggest options such as logging in or using a different email.<br>
 
 
